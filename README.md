@@ -2,7 +2,8 @@
 
 Задание 1.
 1.3 ![1] (ex1.3.png)
-1.4 ![ex1.4.png]
+1.4
+![ex4.png]
 1.4 ![ex1.4(secondword).png]
 1.4 ![ex1.4(thirddword).png]
 1.5 ![ex1.5.png]
