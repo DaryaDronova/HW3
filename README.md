@@ -6,7 +6,7 @@
 1.4 ![ex1.4(secondword).png](https://github.com/DaryaDronova/HW3/blob/master/ex1.4(secondword).png)
 1.4 ![ex1.4(thirdword).png](https://github.com/DaryaDronova/HW3/blob/master/ex1.4(thirdword).png)
 1.5 ![ex1.5.png](https://github.com/DaryaDronova/HW3/blob/master/ex1.5.png)
-1.6 ![ex1.6.png]
+1.6 ![ex1.6.png](https://github.com/DaryaDronova/HW3/blob/master/ex1.6.png)
 
 Задание 2. Пункт 2
 Слова «весть» и «новость»:
