@@ -1,7 +1,7 @@
 # HW3
 
 Задание 1.
-1.3 ![ex1.3.png]
+1.3 ![1] (ex1.3.png)
 1.4 ![ex1.4.png]
 1.4 ![ex1.4(secondword).png]
 1.4 ![ex1.4(thirddword).png]
